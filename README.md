@@ -1,4 +1,4 @@
-# Object Detection with YOLOv5 and Audio Description
+# Object Detection with YOLOv5
 
 ## Overview
 
